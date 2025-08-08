@@ -70,8 +70,8 @@ See the `examples/` directory for more usage examples:
 ## Development
 
 ```bash
-git clone https://github.com/yourusername/Text-to-Curses-print.git
-cd Text-to-Curses-print
+git clone https://github.com/yourusername/Text-to-Curses.git
+cd Text-to-Curses
 pip install -e .
 ```
 
