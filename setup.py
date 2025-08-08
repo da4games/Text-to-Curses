@@ -10,7 +10,7 @@ setup(
     description="A library for displaying documents in terminal with colors using curses",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/da4games/Text-to-Curses-print",
+    url="https://github.com/da4games/Text-to-Curses",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
