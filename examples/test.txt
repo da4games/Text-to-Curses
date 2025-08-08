@@ -1,0 +1,12 @@
+This is a simple plain text test file.
+
+It contains multiple lines of text to test
+the text extraction functionality.
+
+No colors or formatting here - just plain text.
+
+This should display with the default colors:
+- Foreground: #cccccc (light gray)
+- Background: #181818 (dark gray)
+
+Perfect for testing the basic functionality!
